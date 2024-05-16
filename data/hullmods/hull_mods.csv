@@ -1,0 +1,2 @@
+name,id,tier,rarity,tech/manufacturer,tags,uiTags,base value,unlocked,hidden,hiddenEverywhere,cost_frigate,cost_dest,cost_cruiser,cost_capital,script,desc,short,sModDesc,sprite
+Arx Test Hullmod,arx_mod_test,0,,,"defensive, merc, standard",Defenses,2500,TRUE,,,4,8,12,20,data.hullmods.Arx_Mod_Test,Just a test to increase hull integrity biatch. Increases hull integrity by %s.,Increases hull integrity biatch,Further increases hull integrity by %s.,graphics/hullmods/Arx_Mod_Test.png
