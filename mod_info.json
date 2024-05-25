@@ -5,5 +5,6 @@
   "version": { "major": 1, "minor": 0, "patch": 0 },
   "description": "Just some edits",
   "gameVersion": "0.97",
-  "dependencies": [{ "id": "afleettestingmod", "name": "A Fleet Testing Mod" }]
+  "dependencies": [{ "id": "afleettestingmod", "name": "A Fleet Testing Mod" }],
+  "jars": ["jars/arx-starsector.jar"]
 }

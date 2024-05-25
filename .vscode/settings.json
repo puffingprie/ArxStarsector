@@ -8,6 +8,10 @@
       "default": true
     }
   ],
-  "java.project.referencedLibraries": ["c:\\Program Files (x86)\\Fractal Softworks\\Starsector\\starsector-core\\starfarer.api.jar"],
-  "java.project.exportJar.targetPath": "${workspaceFolder}/jars/${workspaceFolderBasename}.jar"
+  "java.project.referencedLibraries": [
+    "c:\\Program Files (x86)\\Fractal Softworks\\Starsector\\starsector-core\\starfarer.api.jar",
+    "c:\\Users\\arxbombus\\Desktop\\Programming\\lw_console\\jars\\lw_Console.jar"
+  ],
+  "java.project.exportJar.targetPath": "${workspaceFolder}/jars/arx-starsector.jar",
+  "cSpell.words": ["mult"]
 }
